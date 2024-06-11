@@ -5,3 +5,14 @@ Configure Git:
 git config --global user.name "username"
 git config --global user.email "email"
 
+Initialize an empty repository
+git init
+
+Check for the status of files:
+git status
+
+Add files to the staging area:
+git add .
+
+Create a commit: 
+git commit -m "This is the description."
