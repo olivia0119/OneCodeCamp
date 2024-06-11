@@ -1,0 +1,26 @@
+Make a directory/folder
+mkdir [directory-name]
+
+Remove a directory
+rmdir [directory-name]
+
+Print/Present Working Directory
+pwd
+
+List command
+ls 
+
+clear the terminal
+clear 
+
+change folder/directory 
+cd [directory path] 
+
+go back one directory
+cd ..
+
+make a file
+touch [filename.extension]
+
+remove a file
+rm [filename.extension]
