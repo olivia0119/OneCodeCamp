@@ -46,3 +46,9 @@ git merge [branch] name
 
 delect branch(mus in diffrent branch first):
 git branch -d [branch name]
+
+push the local file to remote:
+git push
+
+clone from github:
+git clone [web address]
