@@ -11,12 +11,34 @@ git init
 Check for the status of files:
 git status
 
-Add files to the staging area:
+Add all files to the staging area:
 git add .
+
+Add one select file to the staging area:
+git add '[file name]'
+
 
 Create a commit: 
 git commit -m "This is the description."
 
+bypass the staging area(Add):
+git commit -a -m "This is the description."
+
 U - Untracked
 M - Modified
 A - Add
+
+
+show history(author,date,description)/ only description:
+git log / git log --oneline
+
+list all the branch we have:
+git branch -a
+
+Create a new branch:
+git branch [branch name]
+
+switch th aother branch:
+git switch [branch name]
+
+together:
