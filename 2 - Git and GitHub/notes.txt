@@ -41,4 +41,8 @@ git branch [branch name]
 switch th aother branch:
 git switch [branch name]
 
-together:
+merge the additional branch to mian(must go back to main first):
+git merge [branch] name
+
+delect branch(mus in diffrent branch first):
+git branch -d [branch name]
